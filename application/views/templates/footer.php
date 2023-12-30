@@ -34,7 +34,7 @@
         <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
         <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span> Jl. Tanimbar No.22, Kasin, Kec. Klojen, Kota Malang, Jawa Timur 65117</span></p>
         <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Phone:</span> <span> +6285700290024</span></p>
-        <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> MARCELLcowoBEKU.com</span></p>
+        <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> softboy.com</span></p>
       </div>
       <div class="col-md-3 mb-5">
         <p>Sign up for our newsletter</p>

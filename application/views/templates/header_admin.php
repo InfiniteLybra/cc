@@ -60,7 +60,7 @@
                 </svg>
                 <div class="brand-title">
                     <h2 class="">Smartly</h2>
-                    <span class="brand-sub-title">@marcell</span>
+                    <span class="brand-sub-title"></span>
                 </div>
             </a>
             <div class="nav-control">
