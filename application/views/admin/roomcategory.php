@@ -127,7 +127,7 @@
             $('#exampleModalLabel').html('Edit Category');
 
             $('#id').val(id);
-            $('#formCategory').attr('action', 'http://localhost/stay-smartly/Admin/updatecategory/' + id);
+            $('#formCategory').attr('action', 'http://softboy-lb-1545945834.us-east-1.elb.amazonaws.com/stay-smartly/Admin/updatecategory/' + id);
 
             $.ajax({
                 url: "<?= base_url('Admin/getcategorybyid/'); ?>" + id,

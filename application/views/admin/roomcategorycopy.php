@@ -129,10 +129,10 @@
                 console.log('Clicked on item with ID:', id);
                 $('#exampleModalLabel').html('Change Category');
                 $('.modal-footer button[type=submit]').html('Change Category');
-                $('.modal-body form').attr('action', 'http://localhost/stay-smartly/Admin/changecategory/' + id);
+                $('.modal-body form').attr('action', 'http://softboy-lb-1545945834.us-east-1.elb.amazonaws.com/stay-smartly/Admin/changecategory/' + id);
 
                 $.ajax({
-                    url: 'http://localhost/stay-smartly/Admin/getchange',
+                    url: 'http://softboy-lb-1545945834.us-east-1.elb.amazonaws.com/stay-smartly/Admin/getchange',
                     data: {
                         id: id
                     },
