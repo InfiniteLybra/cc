@@ -1,0 +1,20 @@
+Jika Kolom bukti pembayaran di tabel reservation ada isinya maka update status menjadi success
+
+Penambahan Nama lengkap di registrasi + view 
+
+Kemudian Price di hitung dari selisih hari check in dan check out
+
+Limitasi tiap user hanya sekali reservasi
+
+Update Status Room menjadi available ketika suatu user status booking nya menjadi succes lalu di kosongkan room nya 
+
+Ketika suatu modal di tekan dan tidak ada isinya jangan lupa not available
+
+Limitasi agar user tidak bisa masuk page admin dengan menggunakan session role_id
+
+Merapikan room category list agar cukup menginputkan satu price saja tanpa information kemudian IMG nya di sediakan button untuk melihat gambarnya
+
+Kemudian jika suatu reservation user sudah menyentuh tanggal check in maka ditampilkan di check in, kemudian jika tanggal checkout nya sudah menyentuh maka dipindah datanya dari check in menuju checkout
+
+
+Saya sedang mengerjakan proyek web menggunakan codeigniter 3 dan saya memiliki fitur booking check in dan check out, Ketika booking user memasukkan tanggal check in dan checkout dan seluruh data booking tersebut di simpan di tabel reservation di phpmyadmin. Kemudian saya ingin ketika hari sudah memasuki tanggal check in data tersebut dipindah da
