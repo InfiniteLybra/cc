@@ -8,10 +8,10 @@
     <meta name="author" content="">
     <meta name="robots" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Fillow : Fillow Saas Admin  Bootstrap 5 Template">
-    <meta property="og:title" content="Fillow : Fillow Saas Admin  Bootstrap 5 Template">
-    <meta property="og:description" content="Fillow : Fillow Saas Admin  Bootstrap 5 Template">
-    <meta property="og:image" content="https:/fillow.dexignlab.com/xhtml/social-image.png">
+    <meta name="description" content="Stay-Smartly : Stay-Smartly">
+    <meta property="og:title" content="Stay-Smartly : Stay-Smartly">
+    <meta property="og:description" content="Stay-Smartly : Stay-Smartly">
+    <!-- <meta property="og:image" content="https:/Stay-Samartly.dexignlab.com/xhtml/social-image.png"> -->
     <meta name="format-detection" content="telephone=no">
 
     <!-- PAGE TITLE HERE -->
@@ -356,7 +356,7 @@
 				</div> -->
 
                     <!-- <div class="copyright">
-					<p><strong>Fillow Saas Admin</strong> © 2021 All Rights Reserved</p>
+					<p><strong>Stay-Samartly Saas Admin</strong> © 2021 All Rights Reserved</p>
 					<p class="fs-12">Made with <span class="heart"></span> by DexignLabs</p>
 				</div> -->
             </div>
